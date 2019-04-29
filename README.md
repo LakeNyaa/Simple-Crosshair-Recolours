@@ -4,7 +4,7 @@ Go to your Tera Directory which should either be
 
 STEAM:  C:\Program Files (x86)\Steam\steamapps\common\Tera
 
-STANDALONE:  C:\Users\Public\Games\[Publisher]\TERA
+STANDALONE:  C:\Users\Public\Games\ [Publisher]\TERA
 
 Now go to \Client\S1Game and create a folder called _CookedPC (you can theoretically name it _mods too)
 
